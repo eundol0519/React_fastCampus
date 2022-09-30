@@ -1,9 +1,9 @@
-import Condition from "./components/2-8.ConditionalRendering/Condition";
+import List from "./components/2-9.List/List";
 
 function App() {
   return (
     <div className="App">
-      <Condition />
+      <List />
     </div>
   );
 }
