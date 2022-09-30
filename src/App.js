@@ -1,9 +1,9 @@
-import Event from "./components/2-7.Event/Event";
+import Condition from "./components/2-8.ConditionalRendering/Condition";
 
 function App() {
   return (
     <div className="App">
-      <Event />
+      <Condition />
     </div>
   );
 }
