@@ -1,9 +1,9 @@
-import Example from "./components/3-11.Portal/Example";
+import Component from "./components/3-14.PropTypes/Component";
 
 function App() {
   return (
     <div className="App">
-      <Example />
+      <Component />
     </div>
   );
 }
