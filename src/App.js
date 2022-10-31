@@ -1,9 +1,10 @@
-import Component from "./components/3-14.PropTypes/Component";
+import "./App.css";
+import MomentExample from "./components/MomentExample";
 
 function App() {
   return (
     <div className="App">
-      <Component />
+      <MomentExample />
     </div>
   );
 }
