@@ -1,5 +1,5 @@
 import "./App.css";
-import MomentExample from "./components/MomentExample";
+import MomentExample from "./components/moment/MomentExample";
 
 function App() {
   return (
