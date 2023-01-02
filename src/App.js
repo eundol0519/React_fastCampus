@@ -1,10 +1,10 @@
 import "./App.css";
-import DayjsExample from "./components/dayjs/DayjsExample";
+import DatefnsExample from "./components/datefns/DatefnsExample";
 
 function App() {
   return (
     <div className="App">
-      <DayjsExample />
+      <DatefnsExample />
     </div>
   );
 }
